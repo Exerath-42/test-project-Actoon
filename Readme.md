@@ -1,4 +1,4 @@
-# Project "Test project for Actoon"
+# Test project for Actoon
 
 ## Requirements
 
